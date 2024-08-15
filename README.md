@@ -1,15 +1,14 @@
-# Olympic-History-Analysis
-Olympic History Analysis using Python
+# Olympic History Analysis using Python
 
-Context:
+# Context:
 The data includes 120 years (1896 to 2016) of Olympic games with information about athletes and medal results.
 We'll focus on practicing the summary statistics and data visualization techniques using python.
 In general, this dataset is popular to explore how the Olympics have evolved over time, including the participation and performance of different genders, different countries, in various sports and events.
-Objective:
+# Objective:
 Examine/clean the dataset
 Explore distributions of single numerical and categorical features via statistics and plots
 Explore relationships of multiple features via statistics and plots
-Conclusion:
+# Conclusion:
 Female athlete events in the olympics have increased over the years.
 There is a strong positive relationship between height and weight of an athlete
 There are specific sports popular for higher-aged athletes. They tend to need more skills rather than movements.
